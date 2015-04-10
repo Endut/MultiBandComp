@@ -1,2 +1,2 @@
 # MultiBandComp
-multiband compressor for supercollider
+multiband compressor for SuperCollider
